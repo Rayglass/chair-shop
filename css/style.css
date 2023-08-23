@@ -43,7 +43,7 @@ section {
 h2 {
   margin-bottom: 48px;
   font-size: 36px;
-  letter-spacing: -0.5px;
+  letter-spacing: -0.3px;
   /* 24 / 30 / 36 */
 }
 
@@ -182,6 +182,7 @@ img {
 
 .chair-box {
   padding: 32px;
+  /*box-shadow: 20px 20px 20px 10px*/
 }
 
 h3 {
